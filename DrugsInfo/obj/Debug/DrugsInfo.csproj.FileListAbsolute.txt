@@ -1,0 +1,126 @@
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\1260319 Sharif Mahiuddin Ahmed\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+K:\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+K:\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+K:\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+K:\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+K:\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+K:\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+C:\Users\student\Desktop\1260319 WPF\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\1260319 Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+D:\My  sql server\C#\C# Project File\Store App WPF\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+D:\My  sql server\PNTL Batch Round 45 Project File\C# Project\Store App WPF Project\Project_PNTL_R45_StoreApp\1260319_Sharif Mahiuddin Ahmed\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe.config
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.exe
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\bin\Debug\DrugsInfo.pdb
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.dll
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\bin\Debug\Newtonsoft.Json.xml
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csprojAssemblyReference.cache
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.g.cs
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\App.g.cs
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.cache
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo_MarkupCompile.lref
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\MainWindow.baml
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.g.resources
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.Properties.Resources.resources
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.GenerateResource.cache
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CoreCompileInputs.cache
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.csproj.CopyComplete
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.exe
+D:\My  sql server\C#\1260319_Sharif Mahiuddin Ahmed\Store App on DrugInfo\DrugsInformation\DrugsInfo\obj\Debug\DrugsInfo.pdb

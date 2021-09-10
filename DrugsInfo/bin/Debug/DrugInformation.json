@@ -1,0 +1,32 @@
+{
+  "Drug": [
+    {
+      "DrugID": "1",
+      "DrugName": "Napa",
+      "GenericGroup": "Pantoprazole",
+      "ShelfNo": "G-001",
+      "UnitPrice": "4.25"
+    },
+    {
+      "DrugID": "2",
+      "DrugName": "Azin",
+      "GenericGroup": "Azithromycin",
+      "ShelfNo": "J-001",
+      "UnitPrice": "3"
+    },
+    {
+      "DrugID": "3",
+      "DrugName": "Rabitec",
+      "GenericGroup": "Rabeprazole",
+      "ShelfNo": "B-001",
+      "UnitPrice": "7"
+    },
+    {
+      "DrugID": "5",
+      "DrugName": "Ace plus",
+      "GenericGroup": "Paracetamol",
+      "ShelfNo": "E-001",
+      "UnitPrice": "4"
+    }
+  ]
+}
